@@ -5,3 +5,5 @@ fizzbuzzmodule.js instantiates a single FizzBuzz testing object.  It is instanti
 fizzbuzzconstructor allows construction of FizzBuzz testing objects.  Like the previous example, it can be instantiated with a filter or have one applied later.
 
 fizzbuzzobject.js is an unsuccessfull attempt to do the same with a more generic JS pattern.
+
+Thanks for Vincent Chen for help with understanding the scoping in the constructor pattern.
